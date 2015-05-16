@@ -1,9 +1,9 @@
 ;;; erc-youtube.el --- Show info about a YouTube URL in an ERC buffer.
 
-;; Copyright (C) 2014  Raimon Grau Cuscó
+;; Copyright (C) 2014,2015  Raimon Grau Cuscó
 
 ;; Author: Raimon Grau Cuscó <raimonster@gmail.com>
-;; Version: 0.1
+;; Version: 1.0
 ;; Package-Requires: ((erc "5.3"))
 ;; Keywords: multimedia
 
